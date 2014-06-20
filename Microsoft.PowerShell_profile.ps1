@@ -41,6 +41,6 @@ function screenshot{evernote /Task:ClipScreen}
 
 Set-Alias ip Get-ExternalIP
 
-# Setting sublime text as text editor which can be easily accessed
+# Setting my favourite text editor which can be easily accessed
 Set-Alias notepad++ "C:\Program Files (x86)\Notepad++\notepad++.exe"
 Set-Alias edit notepad++
